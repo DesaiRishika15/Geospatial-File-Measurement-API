@@ -15,7 +15,7 @@ A FastAPI backend that accepts zipped ESRI Shapefiles or KML, extracts feature m
 Python 3.10+ recommended (3.11 works well).
 
 ```powershell
-py -m venv .venv
+python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 pip install -r requirements.txt
